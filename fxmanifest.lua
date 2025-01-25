@@ -5,7 +5,7 @@ lua54 'yes'
 
 description 'Adds Hospital Bed Interact Points'
 author 'flamespinner'
-version '0.01'
+version '1.0'
 
 client_scripts { 
     'client/client.lua' 
