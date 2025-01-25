@@ -1,4 +1,4 @@
-##Flame_Hospitalbeds
+**Flame_Hospitalbeds**
 
 This resource was created to be used in Calico City RP. This adds a simple Ox_Target Interact to all the base FiveM hospital beds in Pillbox and Paleto hospitals.
 
